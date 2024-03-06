@@ -1,0 +1,16 @@
+# IDES
+.idea
+.vscode
+
+# Dependency directories
+node_modules/
+
+.cache/
+public
+
+# dotenv environment variable files
+.env
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
